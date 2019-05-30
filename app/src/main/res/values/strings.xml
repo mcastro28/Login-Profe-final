@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">login3</string>
+    <string name="editText2">Usuario</string>
+    <string name="editText">password</string>
+    <string name="button2">Registrar</string>
+    <string name="button">Login</string>
+    <string name="button3">ir a otra</string>
+</resources>
