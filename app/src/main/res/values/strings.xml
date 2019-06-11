@@ -5,4 +5,5 @@
     <string name="button2">Registrar</string>
     <string name="button">Login</string>
     <string name="button3">ir a otra</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
